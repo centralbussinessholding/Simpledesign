@@ -1,0 +1,15 @@
+nav{background: blue;
+position:sticky;
+top:0;}
+h1{margin-left: 0px auto;
+background: #ff15a8;
+color:#fff;
+position:sticky; 
+top: 2px;
+width: 100%;}
+p{font-size:1.2rem;
+background-image: url(lake.jpg);
+align-items: justify;
+color: white;
+padding-left:50%;
+background-size:20vh,20vw;}
